@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Sensor 1"
+        android:icon="@drawable/ic_baseline_local_gas_station_24"
+        android:id="@+id/sensor1"/>
+    <item
+        android:title="Sensor 2"
+        android:icon="@drawable/ic_baseline_local_gas_station_24"
+        android:id="@+id/sensor2"/>
+    <item
+        android:title="Sensor 3"
+        android:icon="@drawable/ic_baseline_local_gas_station_24"
+        android:id="@+id/sensor3"/>
+</menu>
